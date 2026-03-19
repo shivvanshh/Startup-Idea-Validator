@@ -113,4 +113,4 @@ The application architecture is strictly designed to fulfill Round 3 objectives 
 5. Since we are using React Router, set up Redirect/Rewrite rules to redirect all 404 traffic to `index.html` to support Client Side Routing gracefully.
 
 ---
-**Good luck at the Hackathon!**
+ 
